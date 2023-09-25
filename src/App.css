@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+@import './style/login.css';
+@import './style/home.css';
+@import './style/tabbar.css';
+@import './style/billList.css';
+@import './style/dayBillList.css';
+@import './style/billCard.css';
+@import './style/billDetail.css';
+@import './style/me.css';
+
+#root {
+  height: 100%;
+  --adm-color-primary: #F9DA61;
+}
+
